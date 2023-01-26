@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Circle\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x\ y\ radius\ color
+comment1.target=Circle(double,\ double,\ int,\ java.awt.Color)
+comment1.text=\ \r\n\ Constructor\ for\ objects\ of\ class\ Circle\r\n
+comment2.params=
+comment2.target=int\ getWidth()
+comment3.params=
+comment3.target=int\ getHeight()
+comment4.params=g\ outputWidth\ outputHeight
+comment4.target=void\ draw(java.awt.Graphics,\ int,\ int)
+numComments=5

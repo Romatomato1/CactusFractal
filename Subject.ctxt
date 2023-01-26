@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Subject
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ Subject\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=observer
+comment1.target=void\ registerObserver(Observer)
+comment1.text=\r\n\ An\ example\ of\ a\ method\ header\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ a\ sample\ parameter\ for\ a\ method\r\n
+comment2.params=observer
+comment2.target=void\ removeObserver(Observer)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ header\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ a\ sample\ parameter\ for\ a\ method\r\n
+comment3.params=
+comment3.target=void\ notifyObservers()
+comment3.text=\r\n\ An\ example\ of\ a\ method\ header\ -\ replace\ this\ comment\ with\ your\ own\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getData()
+comment4.text=\r\n\ Method\ getData\ returns\ an\ ArrayList\ of\ Observer\ objects.\r\n\r\n\ @return\ an\ ArrayList\ of\ Observer\ objects.\r\n
+comment5.params=childRatio\ recursionDepth\ angle\ cactusColor\ pearColor
+comment5.target=void\ setData(double,\ int,\ int,\ java.awt.Color,\ java.awt.Color)
+comment5.text=\r\n\ Method\ setData\ makes\ the\ ArrayList\ of\ Observers\ \r\n\r\n\ @param\ childRatio;\ the\ ratio\ of\ the\ parent\ to\ children.\r\n\ @param\ recurstionDepth;\ the\ depth\ of\ the\ recursion\ of\ the\ cactus.\r\n\ @param\ cactusColor;\ the\ color\ of\ a\ cactus.\r\n\ @param\ pearColor;\ the\ color\ of\ the\ cactus\ pear\r\n
+numComments=6
